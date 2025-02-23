@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co.com/xS90DB2d/headset-table.jpg",
+      "name": "Wireless Headphones",
+      "description": "High-quality noise-canceling wireless headphones with long battery life.",
+      "price": 99.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co.com/cS20BLhQ/3d-Virtual-Reality-Glasses-Metaverse-Technology-3.jpg",
+      "name": "Virtual Reality Glasses",
+      "description": "Latest model virtual reality glasses with high-resolution display and powerful processor.",
+      "price": 699.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co.com/jPrzLrWy/laughing-winsome-woman-straw-hat-posing-attractive-lady-black-tank-top-isolated.jpg",
+      "name": "Hat",
+      "description": "Lightweight and durable hat designed for comfort and performance.",
+      "price": 59.99,
+      "category": "Fashion"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co.com/LDCXJQFT/woman-accessories-with-leaves-black.jpg",
+      "name": "Neck Piece",
+      "description": "Representation of elegance with beauty. Best to enhance your charm and for daily use.",
+      "price": 39.99,
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co.com/vxyZ990j/5db7b52a-d1ff-4864-b95b-44616ad27bb0.jpg",
+      "name": "Earbuds",
+      "description": "Ergonomic earbuds with awesome sound bass and RGB lighting.",
+      "price": 49.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co.com/jPdLbPLQ/1090656b-a8d9-432f-b341-b73d95d84c61.jpg",
+      "name": "Nebulizer",
+      "description": "Automatic nebulizer with multiple brewing options and a timer.",
+      "price": 89.99,
+      "category": "Home Appliances"
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co.com/1tLdH0yr/stylish-woman-summer-outfit-isolated-posing-fashion-trend-isolated.jpg",
+      "name": "Summer Outfit",
+      "description": "Polarized summer outfit with stylish and attractive design.",
+      "price": 24.99,
+      "category": "Fashion"
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co.com/0jbrqCBs/f9d6dce2-533d-4ca0-87fe-bc479dbdf2ba.jpg",
+      "name": "Bluetooth Headphone",
+      "description": "Portable Bluetooth headphone  with deep bass and long battery life.",
+      "price": 39.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co.com/WvVzKF51/kettle-cup-wall-background.jpg",
+      "name": "Kettle",
+      "description": "Kettle with durable material and heat-resistant handles.",
+      "price": 129.99,
+      "category": "Home Appliances"
+    },
+    {
+      "id": 10,
+      "img": "https://i.ibb.co.com/ds7PXZtX/robot-skipping-with-rope.jpg",
+      "name": "Fitness tracker robo",
+      "description": "Smart fitness tracker with heart rate monitoring and activity tracking.",
+      "price": 49.99,
+      "category": "Electronics"
+    }
+  ]
+  
